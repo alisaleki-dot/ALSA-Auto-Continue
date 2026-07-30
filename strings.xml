@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ALSA Auto Continue</string>
+    <string name="accessibility_description">پس از پایان پاسخ در گفت‌وگوی ChatGPT، متن ادامه را با محدودیت و تأخیر تعیین‌شده ارسال می‌کند.</string>
+</resources>

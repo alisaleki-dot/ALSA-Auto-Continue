@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.AlsaAutoContinue" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#126B57</item>
+        <item name="colorPrimaryVariant">#0A4B3D</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:fontFamily">sans</item>
+    </style>
+</resources>
